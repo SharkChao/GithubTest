@@ -13,7 +13,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("a_debug","");
-
-        System.currentTimeMillis();
     }
 }
